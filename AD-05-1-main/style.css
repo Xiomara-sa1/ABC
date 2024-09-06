@@ -2,10 +2,19 @@ html {
     height: 100%;
     width: 100%;
   }
-.blueColor {
-    color: blue;
-  }
+  
+  body {
+    background-color: rgb(201, 198, 198);
+}
+
 h3 {
     color: green;
 }
->>>>>>> letraG-k
+
+.blueColor {
+    color: blue;
+}
+
+.redColor {
+    color: red;
+}
